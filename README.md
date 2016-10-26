@@ -1,5 +1,5 @@
 --------------------------------
-javaImageJ/variasPruebasImageJ --> Segmentación de la imagen de una cebra
+** javaImageJ/variasPruebasImageJ --> Segmentación de la imagen de una cebra
 
 http://otroblogdetecnologias.blogspot.com/
 
@@ -14,3 +14,8 @@ La idea es obtener las líneas de contorno de la cebra a partir de una imagen or
 Se parte desde una imagen en escala de grises, la cebra contiene las líneas verticales que se desean eliminar.
 
 El ejemplo fue compilado con Netbeans IDE 8.1. 
+
+** javaImageJ/SeparacionFondo --> Separación de fondo
+
+Contiene un ejemplo, en el cual se procesan imágenes de naranjas y se obtiene la silueta sobre un fondo negro.
+
